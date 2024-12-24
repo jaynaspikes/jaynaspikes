@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jaynaspikes
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning C++, Python and HTML...
-- 💞️ I’m currently looking for internship opportunities.. 
 - 📫 You can reach me on my Linkedln ...
 
 <!---
